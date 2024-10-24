@@ -2,6 +2,7 @@
 Check data by looking into JSON files 
 Akond Rahman 
 Apr 03, 2020 
+Modifying the code in order to see changes - Traevon 
 '''
 import os 
 import json 
